@@ -1,0 +1,9 @@
+How to: https://pages.github.com/
+
+
+Change files locally
+Switch to repo locally
+cd C:\dev\repos-pascalmeury\pascalmeury.github.io>
+git add --all
+git commit -m "comment commit"
+git push -u origin main
